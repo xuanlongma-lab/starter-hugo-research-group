@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 欢迎加入我们！
       content: Take a look at what we're working on...
       align: center
       background:
