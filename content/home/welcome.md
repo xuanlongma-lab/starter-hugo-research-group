@@ -4,7 +4,7 @@ widget_id: no
 headless: true
 weight: 10
 title: |
-  Wowchemy  
+  Remote Sensing of Vegetation and Ecology  
   Research Group
 hero_media: welcome.jpg
 design:
@@ -12,9 +12,9 @@ design:
   css_style: null
   css_class: null
   background:
-    image: 欢迎.png
+    image: welcome.jpg
 ---
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Remote sensing of vegetation and ecology Group** has been a center of excellence for Ecological Remote Sensing research, teaching, and practice since its founding in 2019.
