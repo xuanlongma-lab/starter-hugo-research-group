@@ -1,29 +1,29 @@
 ---
 # Display name
-title: 吳恩達
+title: 马轩龙
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 马轩龙
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher of Ecological remote sensing
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Lanzhou University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative remote sensing of vegetation
+  - Ecological remote sensing monitoring
+  - Global change
 
 education:
   courses:
