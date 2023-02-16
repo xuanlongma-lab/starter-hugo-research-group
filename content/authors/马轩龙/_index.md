@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Quantitative remote sensing of vegetation, Ecological remote sensing monitoring and Global change.
 
 interests:
   - Quantitative remote sensing of vegetation
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Doctor 
+      institution: University of Chinese Academy of Sciences
+      year: 2014
+    - course: Master
+      institution: LanZhou University
       year: 2008
+    - course: Bachelor
+      institution: LanZhou University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
