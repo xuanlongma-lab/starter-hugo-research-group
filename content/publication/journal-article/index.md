@@ -1,7 +1,7 @@
 ---
 title: 'An example journal article'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Robert Ford
 author_notes:
   - 'Equal contribution'
